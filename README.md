@@ -12,4 +12,6 @@ The HLA analysis was done by first imputing the HLA alleles for each dataset and
 
 **ITHGC_concordance_effect_direction.R**: Script used to do the concordance in direction of effects analysis between the different datasets. 
 
-**ITHGC_forest_plot.R**: Script to produce forest plots for the SNPs of interest
+**ITHGC_forest_plot.R**: Script to produce forest plots for the SNPs of interest.
+
+**Manhattan and QQ plot.R**: Script to produce the Manhattan and QQ-plot for the meta-analysis results. 
